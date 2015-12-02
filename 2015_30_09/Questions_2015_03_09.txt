@@ -1,0 +1,5 @@
+1.sort a sub array which is reversed
+2.product of the remaining elements of an array for every element
+3.program to add binary numbers
+4.binary(string) to decimal
+5.max of two numbers(strings) seperated by comma

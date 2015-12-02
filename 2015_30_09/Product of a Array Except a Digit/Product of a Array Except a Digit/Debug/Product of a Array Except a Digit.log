@@ -1,0 +1,14 @@
+﻿Build started 06/09/2015 09:01:26.
+     1>Project "C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Product of a Array Except a Digit\Product of a Array Except a Digit\Product of a Array Except a Digit.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt method2.cpp
+         method2.cpp
+     1>c:\users\bhargav\documents\visual studio 2012\projects\mrnd-30.09.15\product of a array except a digit\product of a array except a digit\method2.cpp(71): warning C4101: 'j' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Product of a Array Except a Digit\Debug\Product of a Array Except a Digit.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Product of a Array Except a Digit\Debug\Product of a Array Except a Digit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Product of a Array Except a Digit\Debug\Product of a Array Except a Digit.lib" /MACHINE:X86 Debug\method2.obj
+         Product of a Array Except a Digit.vcxproj -> C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Product of a Array Except a Digit\Debug\Product of a Array Except a Digit.exe
+     1>Done Building Project "C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Product of a Array Except a Digit\Product of a Array Except a Digit\Product of a Array Except a Digit.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.63

@@ -1,0 +1,15 @@
+﻿Build started 06/09/2015 09:38:37.
+     1>Project "C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Reverse a Block of a Array\Reverse a Block of a Array\Reverse a Block of a Array.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt method1.cpp
+         method1.cpp
+     1>c:\users\bhargav\documents\visual studio 2012\projects\mrnd-30.09.15\reverse a block of a array\reverse a block of a array\method1.cpp(109): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\bhargav\documents\visual studio 2012\projects\mrnd-30.09.15\reverse a block of a array\reverse a block of a array\method1.cpp(41): warning C4715: 'isSort' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Reverse a Block of a Array\Debug\Reverse a Block of a Array.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Reverse a Block of a Array\Debug\Reverse a Block of a Array.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Reverse a Block of a Array\Debug\Reverse a Block of a Array.lib" /MACHINE:X86 Debug\method1.obj
+         Reverse a Block of a Array.vcxproj -> C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Reverse a Block of a Array\Debug\Reverse a Block of a Array.exe
+     1>Done Building Project "C:\Users\Bhargav\Documents\Visual Studio 2012\Projects\MRND-30.09.15\Reverse a Block of a Array\Reverse a Block of a Array\Reverse a Block of a Array.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.74
