@@ -1,0 +1,4 @@
+1.Min Rank of a given number.Given a unsigned number as a input, find the index of a number for a permutation of the number sorted in ascending order.
+2.Given three Unsigned Integers x,y,z find power(x,y) mod z.
+3.Bit Wise Multiplication.
+4.Print the Date in Words.
